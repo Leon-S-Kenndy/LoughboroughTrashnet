@@ -1,22 +1,22 @@
 # LoughboroughTrashnet
  Dataset of images of trash
 
-This repository contains the dataset of trash. The dataset spans nine classes:batteries, cans_tins, cardboard, paper cups, foodwaste, generalWaste, glass, paper, plastics. Currently, the dataset consists of 725 images:
+This repository contains the dataset of trash. The dataset spans nine classes:batteries, cans_tins, cardboard, paper cups, foodwaste, generalWaste, glass, paper, plastics. Currently, the dataset consists of 769 images:
 
-6 batteries
+25 batteries
 
-31 cans_tins
+43 cans_tins
 
 71 cardboard
 
-3 paper cups
+14 paper cups
 
 333 foodwaste
 
-159 generalWaste
+160 generalWaste
 
 9 glass
 
 83 paper
 
-30 plastics
+31 plastics
