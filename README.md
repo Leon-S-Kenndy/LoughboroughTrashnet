@@ -21,7 +21,7 @@ This repository contains the dataset of trash. The dataset spans nine classes:ba
 
 33 plastics
 
-And a dataset mixed with data from Trashnet. Currently, the dataset consists of 1920 images:
+And a dataset mixed with data from Trashnet. Currently, the dataset consists of 1882 images:
 
 100(0 from Transhnet) batteries
 
@@ -31,7 +31,7 @@ And a dataset mixed with data from Trashnet. Currently, the dataset consists of 
 
 333 (0 from Transhnet) foodwaste
 
-589 (232 (53 from Trashnet) CrispsPackets + 225 Polystyrene+ 132 (26 from Trashnet) Tissues ) GeneralWaste
+589 (232 (53 from Trashnet) CrispsPackets + 225 Polystyrene+ 132 Tissues ) GeneralWaste
 
 213 (204 from Transhnet) glass
 
