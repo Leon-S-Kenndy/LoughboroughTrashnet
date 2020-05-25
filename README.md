@@ -9,8 +9,6 @@ This repository contains the dataset of trash. The dataset spans nine classes:ba
 
 71 cardboard
 
-98 paper cups
-
 333 foodwaste
 
 160 (91 CrispsPackets +201 Polystyrene+96 Tissues )generalWaste
@@ -18,6 +16,8 @@ This repository contains the dataset of trash. The dataset spans nine classes:ba
 9 glass
 
 83 paper
+
+98 paper_cups
 
 31 plastics
 
