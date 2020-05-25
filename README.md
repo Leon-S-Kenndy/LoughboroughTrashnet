@@ -33,7 +33,7 @@ And a dataset mixed with data from Trashnet. Currently, the dataset consists of 
 
 333 (0 from Transhnet) foodwaste
 
-160 (0 from Transhnet) generalWaste
+160 (53 cp from Transhnet) generalWaste
 
 213 (204 from Transhnet) glass
 
