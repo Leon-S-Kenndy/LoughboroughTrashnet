@@ -13,7 +13,7 @@ This repository contains the dataset of trash. The dataset spans nine classes:ba
 
 333 foodwaste
 
-160 generalWaste
+160 (91 CrispsPackets +201 Polystyrene+96 Tissues )generalWaste
 
 9 glass
 
